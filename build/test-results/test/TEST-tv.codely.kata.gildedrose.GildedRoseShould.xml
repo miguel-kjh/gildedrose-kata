@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tv.codely.kata.gildedrose.GildedRoseShould" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-12-08T19:32:34" hostname="miguel-MS-7A70" time="0.018">
+<testsuite name="tv.codely.kata.gildedrose.GildedRoseShould" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-12-08T19:40:46" hostname="miguel-MS-7A70" time="0.02">
   <properties/>
   <testcase name="testSulfurasNeverChanges()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.006"/>
   <testcase name="testAgedBrieIncreasesQualityWithAge()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.001"/>
   <testcase name="testBackstagePassIncreasesQualityByThreeIfSellBySmallerThanFive()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.001"/>
+  <testcase name="testQualityDoesNotAllowValuesOverFifty()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.001"/>
+  <testcase name="testQualityDoesNotAllowValuesBelowZero()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.0"/>
   <testcase name="testThatQualityIsNeverNegative()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.0"/>
   <testcase name="testThatSellInValueIsDecreased()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.0"/>
   <testcase name="testBackstagePassLosesValueAfterSellByPasses()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.001"/>
-  <testcase name="testThatQualityDecreasesTwiceAsMuchWhenSellByIsPassed()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.001"/>
-  <testcase name="testBackstagePassIncreasesQualityByTwoIfSellBySmallerThanTen()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.001"/>
-  <testcase name="testBackstagePassIncreasesQualityByOneIfSellByGreaterThenTen()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.001"/>
-  <testcase name="testThatQualityValueIsDecreased()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.001"/>
-  <testcase name="testQualityNeverIncreasesPastFifty()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.001"/>
+  <testcase name="testThatQualityDecreasesTwiceAsMuchWhenSellByIsPassed()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.0"/>
+  <testcase name="testBackstagePassIncreasesQualityByTwoIfSellBySmallerThanTen()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.0"/>
+  <testcase name="testBackstagePassIncreasesQualityByOneIfSellByGreaterThenTen()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.0"/>
+  <testcase name="testThatQualityValueIsDecreased()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.0"/>
+  <testcase name="testQualityNeverIncreasesPastFifty()" classname="tv.codely.kata.gildedrose.GildedRoseShould" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
