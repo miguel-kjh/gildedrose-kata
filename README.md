@@ -1,4 +1,4 @@
-# Gilded Rose kata solution
+# Gilded Rose kata solution 🌹
 
 ## Introduction
 
